@@ -1,7 +1,7 @@
 {
   "name": "tiny-id62",
-  "version": "1.1.0",
-  "description": "Tiny alphanumeric encoder for timestamp + person-id using base62.",
+  "version": "1.1.3",
+  "description": "Tiny alphanumeric encoder for timestamp + id using base62.",
   "main": "index.js",
   "type": "module",
   "bin": { "tiny-id62": "./cli.js" },
